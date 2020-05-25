@@ -1,0 +1,1 @@
+Facebook database implementation by using MySQL. Some data and queries are created to show the results of implementation clearly. Entity relationship model of database can be found here: https://drive.google.com/file/d/1X2pWbyNReFTHdYrSYJmMSpheV5OjNYnp/view?usp=sharing
